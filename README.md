@@ -4,7 +4,9 @@ CSE 474/574: Introduction to Machine Learning
 (Fall 2019) 
 
 Sargur N. Srihari 
-University at Bufalo, The State University of New York 
+University at Bufalo,
+
+The State University of New York 
 Bufalo, New York 14260
 
 September 9, 2019 
