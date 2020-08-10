@@ -1,4 +1,5 @@
-# Intro to Machine Learning Project 1
+# Project 1
+## Classification of Wisconsin Diagnostic Breast Cancer dataset using Logistic Regression 
 
 CSE 474/574: Introduction to Machine Learning 
 (Fall 2019) 
